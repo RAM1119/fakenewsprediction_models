@@ -1,0 +1,5 @@
+Flask==2.3.3
+transformers==4.30.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2

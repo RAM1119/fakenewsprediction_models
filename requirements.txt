@@ -1,5 +1,5 @@
 Flask==2.3.3
-transformers==4.54.1
+transformers==4.53.0
 torch==2.7.1
-torchvision==0.19.1
+torchvision==0.22.1
 torchaudio==2.7.1
